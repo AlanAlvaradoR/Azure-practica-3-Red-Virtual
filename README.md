@@ -1,4 +1,4 @@
-# Azure-practica-3-Red-Virtual
+# Azure-práctica-3-Red-Virtual
 Creación de Red Virtual en Azure
 
 ![Logo de RV](https://github.com/AlanAlvaradoR/Azure-practica-3-Red-Virtual/blob/main/imagenes/RedVirtual.jpg)
